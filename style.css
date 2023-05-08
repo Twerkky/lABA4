@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://naked-science.ru/wp-content/uploads/2021/01/1411101555_90-1-scaled.jpg);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+    display:flex;
+    height: 100%;
+    width: 100%;
+  }
+ 
+.main{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 50% 18%;
+    width: 50%;
+    
+    height: 100%;
+    background-color: aliceblue;
+    border: dotted;
+    border-color: black;
+    border-radius: 100px;
+    padding: 20px 20px 40px 20px;
+  }
